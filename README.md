@@ -2,10 +2,10 @@
 A repository for using Currents.market's APIs
 
 # API / Swagger Docs
-* [Beta](https://docs.svc.integration-421315.env.currents.tech/openapi.yaml)
-  * Endpoint Root : https://api.integration-421315.env.currents.tech
+* [Intergration](https://docs.svc.integration-421315.env.currents.tech/openapi.yaml)
+  * Endpoint Root : https://api.integration.currents.market
 * [Production](https://docs.svc.production-422715.env.currents.tech/openapi.yaml) -- Coming Soon
-  * Endpoint Root : https://api.production-422715.env.currents.tech
+  * Endpoint Root : https://api.currents.market
 
 For easy viewing, download one of the API docs and "load" it into [this WYSIWYG editor](https://editor-next.swagger.io/).  We'll soon have the ability to autoload the API docs directly into Swagger.
 
