@@ -3,7 +3,7 @@ A repository for using Currents.market's APIs
 
 # API / Swagger Docs
 * [Intergration](https://docs.svc.integration-421315.env.currents.tech/openapi.yaml)
-  * Endpoint Root : https://api.integration.currents.market
+  * Endpoint Root : https://api.integration.app.currents.market
 * [Production](https://docs.svc.production-422715.env.currents.tech/openapi.yaml) -- Coming Soon
   * Endpoint Root : https://api.currents.market
 
@@ -40,7 +40,7 @@ currents@market:~/Desktop/Projects/howto-api$ cat 1N4AZ1BV3NC561510
 
 The equivalent YMMV query is :
 ```
-curl -H 'X-Api-Key: ABCDEFGHIJKLMNOP' https://api.integration-421315.env.currents.tech/insight/year/2022/make/nissan/model/leaf/variant/BEV
+curl -H 'X-Api-Key: ABCDEFGHIJKLMNOP' https://api.integration.app.currents.market/insight/year/2022/make/nissan/model/leaf/variant/BEV
 ```
 
 ## Limits
