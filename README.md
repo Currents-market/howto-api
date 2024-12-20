@@ -5,7 +5,7 @@ A repository for using Currents.market's APIs
 * [Intergration](https://docs.svc.integration-421315.env.currents.tech/openapi.yaml) <-- CLICK HERE TO DOWNLOAD FOR INTEGRATION
   * Endpoint Root : https://api.integration.app.currents.market
 * [Production](https://docs.api.app.currents.market/openapi.yaml) <-- CLICK HERE TO DOWNLOAD FOR PRODUCTION
-  * Endpoint Root : https://api.currents.market
+  * Endpoint Root : https://api.app.currents.market
 
 For easy viewing, download one of the API docs and "load" it into [this WYSIWYG editor](https://editor-next.swagger.io/).  We'll soon have the ability to autoload the API docs directly into Swagger.
 
